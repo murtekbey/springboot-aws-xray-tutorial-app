@@ -1,0 +1,384 @@
+[2m-2022-02-25 09:07:14.879[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mc.m.a.x.XrayTutorialApplication         [0;39m [2m:[0;39m  Starting XrayTutorialApplication using Java 11.0.12 on Murtek-PC with PID 10856 (C:\Users\murte\Desktop\CODE\2022\condor-workstation\tasks\xray-tutorial\target\classes started by murte in C:\Users\murte\Desktop\CODE\2022\condor-workstation\tasks\xray-tutorial)
+-[2m-2022-02-25 09:07:14.880[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mc.m.a.x.XrayTutorialApplication         [0;39m [2m:[0;39m  No active profile set, falling back to 1 default profile: "default"
+-[2m-2022-02-25 09:07:14.912[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+-[2m-2022-02-25 09:07:14.912[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+-[2m-2022-02-25 09:07:15.711[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+-[2m-2022-02-25 09:07:15.721[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m  Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+-[2m-2022-02-25 09:07:18.075[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.cloud.context.scope.GenericScope    [0;39m [2m:[0;39m  BeanFactory id=4c3ab1d0-cfc4-346d-951c-73ed7d323c9c
+-[2m-2022-02-25 09:07:18.820[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m  Tomcat initialized with port(s): 8080 (http)
+-[2m-2022-02-25 09:07:18.827[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.apache.catalina.core.StandardService  [0;39m [2m:[0;39m  Starting service [Tomcat]
+-[2m-2022-02-25 09:07:18.828[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.apache.catalina.core.StandardEngine [0;39m [2m:[0;39m  Starting Servlet engine: [Apache Tomcat/9.0.58]
+-[2m-2022-02-25 09:07:18.925[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m  Initializing Spring embedded WebApplicationContext
+-[2m-2022-02-25 09:07:18.925[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m  Root WebApplicationContext: initialization completed in 4012 ms
+-[2m-2022-02-25 09:07:19.817[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m  HikariPool-1 - Starting...
+-[2m-2022-02-25 09:07:19.920[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m  HikariPool-1 - Start completed.
+-[2m-2022-02-25 09:07:19.947[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.hibernate.jpa.internal.util.LogHelper [0;39m [2m:[0;39m  HHH000204: Processing PersistenceUnitInfo [name: default]
+-[2m-2022-02-25 09:07:19.976[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.hibernate.Version                   [0;39m [2m:[0;39m  HHH000412: Hibernate ORM core version 5.6.5.Final
+-[2m-2022-02-25 09:07:20.096[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.hibernate.annotations.common.Version  [0;39m [2m:[0;39m  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+-[2m-2022-02-25 09:07:20.166[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.hibernate.dialect.Dialect           [0;39m [2m:[0;39m  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+-[2m-2022-02-25 09:07:20.310[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator      [0;39m [2m:[0;39m  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+-[2m-2022-02-25 09:07:20.317[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m  Initialized JPA EntityManagerFactory for persistence unit 'default'
+-[2m-2022-02-25 09:07:20.449[0;39m [33m WARN [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mJpaBaseConfiguration$JpaWebConfiguration[0;39m [2m:[0;39m  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+-[2m-2022-02-25 09:07:21.102[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m  LiveReload server is running on port 35729
+-[2m-2022-02-25 09:07:21.540[0;39m [33m WARN [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36miguration$LoadBalancerCaffeineWarnLogger[0;39m [2m:[0;39m  Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+-[2m-2022-02-25 09:07:21.629[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.a.e.web.EndpointLinksResolver     [0;39m [2m:[0;39m  Exposing 1 endpoint(s) beneath base path ''
+-[2m-2022-02-25 09:07:21.704[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m  Tomcat started on port(s): 8080 (http) with context path ''
+-[2m-2022-02-25 09:07:22.034[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mc.m.a.x.XrayTutorialApplication         [0;39m [2m:[0;39m  Started XrayTutorialApplication in 7.827 seconds (JVM running for 9.462)
+-[2m-2022-02-25 09:07:22.946[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[5)-192.168.1.21][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m  Initializing Spring DispatcherServlet 'dispatcherServlet'
+-[2m-2022-02-25 09:07:22.947[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[5)-192.168.1.21][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m  Initializing Servlet 'dispatcherServlet'
+-[2m-2022-02-25 09:07:22.948[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[5)-192.168.1.21][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m  Completed initialization in 1 ms
+-[2m-2022-02-25 09:07:30.923[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is beginning to process request: org.apache.catalina.connector.RequestFacade@773997bf
+-[2m-2022-02-25 09:07:30.925[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[pool-1-thread-1][0;39m [36mc.a.x.s.sampling.pollers.RulePoller     [0;39m [2m:[0;39m  Polling sampling rules.
+-[2m-2022-02-25 09:07:30.925[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	serviceName: xray-tutorial-app
+	host: localhost:8080
+	path: /api/index
+	method: GET
+	serviceType: 
+-[2m-2022-02-25 09:07:30.926[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Centralized sampling data expired. Using fallback sampling strategy.
+-[2m-2022-02-25 09:07:30.927[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	host: localhost:8080
+	path: /api/index
+	method: GET
+-[2m-2022-02-25 09:07:30.928[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Applicable sampling rule: 
+	host: *
+	http_method: *
+	url_path: /api/*
+	fixed_target: 0
+	rate: 1.0
+-[2m-2022-02-25 09:07:30.928[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  Sampling strategy decided SAMPLED.
+-[2m-2022-02-25 09:07:31.003[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.c.ThreadLocalSegmentContext       [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-62187222-6e3e1656bc92d05928c6dc80 Beginning subsegment named: com.murtekbey.aws.xraytutorial.controller.TestController.index
+-[2m-2022-02-25 09:07:31.008[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.c.ThreadLocalSegmentContext       [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-62187222-6e3e1656bc92d05928c6dc80 Ending subsegment named: com.murtekbey.aws.xraytutorial.controller.TestController.index
+-[2m-2022-02-25 09:07:31.009[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.xray.entities.SubsegmentImpl        [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-62187222-6e3e1656bc92d05928c6dc80 Subsegment named 'com.murtekbey.aws.xraytutorial.controller.TestController.index' ending. Parent segment named 'xray-tutorial-app' has reference count 1
+-[2m-2022-02-25 09:07:31.022[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mcom.amazonaws.xray.AWSXRayRecorder      [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-62187222-6e3e1656bc92d05928c6dc80 Ending segment named 'xray-tutorial-app'.
+-[2m-2022-02-25 09:07:31.041[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  {
+  "name" : "xray-tutorial-app",
+  "id" : "6aa24549ec6a8603",
+  "start_time" : 1.645769250932E9,
+  "trace_id" : "1-62187222-6e3e1656bc92d05928c6dc80",
+  "end_time" : 1.645769251023E9,
+  "subsegments" : [ {
+    "name" : "com.murtekbey.aws.xraytutorial.controller.TestController.index",
+    "id" : "4cf70c825791a2c2",
+    "start_time" : 1.645769251004E9,
+    "end_time" : 1.645769251009E9,
+    "metadata" : {
+      "ClassInfo" : {
+        "Class" : "com.murtekbey.aws.xraytutorial.controller.TestController",
+        "Package" : "com.murtekbey.aws.xraytutorial.controller",
+        "Method" : "index"
+      },
+      "Result" : {
+        "java.lang.String" : "HERE"
+      }
+    }
+  } ],
+  "http" : {
+    "request" : {
+      "method" : "GET",
+      "client_ip" : "0:0:0:0:0:0:0:1",
+      "url" : "http://localhost:8080/api/index",
+      "user_agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+    },
+    "response" : {
+      "content_length" : 4,
+      "status" : 200
+    }
+  },
+  "aws" : {
+    "xray" : {
+      "sdk_version" : "2.3.0",
+      "sdk" : "X-Ray for Java"
+    }
+  },
+  "service" : {
+    "runtime" : "Java HotSpot(TM) 64-Bit Server VM",
+    "runtime_version" : "11.0.12"
+  }
+}
+-[2m-2022-02-25 09:07:31.042[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  Sending UDP packet.
+-[2m-2022-02-25 09:07:31.043[0;39m [32mDEBUG [xray-tutorial-app,75ba4d64c17ddb4b,75ba4d64c17ddb4b][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is finished processing request: org.apache.catalina.connector.RequestFacade@773997bf
+-[2m-2022-02-25 09:07:31.182[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is beginning to process request: org.apache.catalina.connector.RequestFacade@773997bf
+-[2m-2022-02-25 09:07:31.182[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	serviceName: xray-tutorial-app
+	host: localhost:8080
+	path: /favicon.ico
+	method: GET
+	serviceType: 
+-[2m-2022-02-25 09:07:31.182[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Centralized sampling data expired. Using fallback sampling strategy.
+-[2m-2022-02-25 09:07:31.183[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	host: localhost:8080
+	path: /favicon.ico
+	method: GET
+-[2m-2022-02-25 09:07:31.183[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Applicable sampling rule: 
+	host: null
+	http_method: null
+	url_path: null
+	fixed_target: 1
+	rate: 0.1
+-[2m-2022-02-25 09:07:31.183[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  Sampling strategy decided SAMPLED.
+-[2m-2022-02-25 09:07:31.188[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mcom.amazonaws.xray.AWSXRayRecorder      [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-62187223-68353689f09150a8366d2464 Ending segment named 'xray-tutorial-app'.
+-[2m-2022-02-25 09:07:31.189[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  {
+  "name" : "xray-tutorial-app",
+  "id" : "434aa91c7cec8534",
+  "start_time" : 1.645769251183E9,
+  "trace_id" : "1-62187223-68353689f09150a8366d2464",
+  "end_time" : 1.645769251189E9,
+  "error" : true,
+  "http" : {
+    "request" : {
+      "method" : "GET",
+      "client_ip" : "0:0:0:0:0:0:0:1",
+      "url" : "http://localhost:8080/favicon.ico",
+      "user_agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+    },
+    "response" : {
+      "status" : 404
+    }
+  },
+  "aws" : {
+    "xray" : {
+      "sdk_version" : "2.3.0",
+      "sdk" : "X-Ray for Java"
+    }
+  },
+  "service" : {
+    "runtime" : "Java HotSpot(TM) 64-Bit Server VM",
+    "runtime_version" : "11.0.12"
+  }
+}
+-[2m-2022-02-25 09:07:31.189[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  Sending UDP packet.
+-[2m-2022-02-25 09:07:31.189[0;39m [32mDEBUG [xray-tutorial-app,0dcb48276c855584,0dcb48276c855584][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-3][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is finished processing request: org.apache.catalina.connector.RequestFacade@773997bf
+-[2m-2022-02-25 09:07:39.537[0;39m [31mERROR [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[pool-1-thread-1][0;39m [36mc.a.x.s.sampling.pollers.RulePoller     [0;39m [2m:[0;39m  Encountered error polling GetSamplingRules: 
+-
+com.amazonaws.SdkClientException: Unable to execute HTTP request: Request did not complete before the request timeout configuration.
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.handleRetryableException(AmazonHttpClient.java:1134) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.executeHelper(AmazonHttpClient.java:1080) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.doExecute(AmazonHttpClient.java:745) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.executeWithTimer(AmazonHttpClient.java:719) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.execute(AmazonHttpClient.java:701) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.access$500(AmazonHttpClient.java:669) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutionBuilderImpl.execute(AmazonHttpClient.java:651) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient.execute(AmazonHttpClient.java:515) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.services.xray.AWSXRayClient.doInvoke(AWSXRayClient.java:1257) ~[aws-java-sdk-xray-1.11.398.jar:na]
+	at com.amazonaws.services.xray.AWSXRayClient.invoke(AWSXRayClient.java:1226) ~[aws-java-sdk-xray-1.11.398.jar:na]
+	at com.amazonaws.services.xray.AWSXRayClient.invoke(AWSXRayClient.java:1215) ~[aws-java-sdk-xray-1.11.398.jar:na]
+	at com.amazonaws.services.xray.AWSXRayClient.executeGetSamplingRules(AWSXRayClient.java:568) ~[aws-java-sdk-xray-1.11.398.jar:na]
+	at com.amazonaws.services.xray.AWSXRayClient.getSamplingRules(AWSXRayClient.java:539) ~[aws-java-sdk-xray-1.11.398.jar:na]
+	at com.amazonaws.xray.strategy.sampling.pollers.RulePoller.pollRule(RulePoller.java:65) ~[aws-xray-recorder-sdk-core-2.4.0.jar:na]
+	at com.amazonaws.xray.strategy.sampling.pollers.RulePoller.lambda$start$0(RulePoller.java:46) ~[aws-xray-recorder-sdk-core-2.4.0.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+Caused by: com.amazonaws.http.exception.HttpRequestTimeoutException: Request did not complete before the request timeout configuration.
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.executeOneRequest(AmazonHttpClient.java:1270) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.executeHelper(AmazonHttpClient.java:1072) ~[aws-java-sdk-core-1.11.398.jar:na]
+	... 19 common frames omitted
+Caused by: java.net.SocketException: Socket operation on nonsocket: configureBlocking
+	at java.base/java.net.PlainSocketImpl.configureBlocking(Native Method) ~[na:na]
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:110) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224) ~[na:na]
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:na]
+	at java.base/java.net.Socket.connect(Socket.java:608) ~[na:na]
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376) ~[httpclient-4.5.13.jar:4.5.13]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at com.amazonaws.http.conn.ClientConnectionManagerFactory$Handler.invoke(ClientConnectionManagerFactory.java:76) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.conn.$Proxy64.connect(Unknown Source) ~[na:na]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.13.jar:4.5.13]
+	at com.amazonaws.http.apache.client.impl.SdkHttpClient.execute(SdkHttpClient.java:72) ~[aws-java-sdk-core-1.11.398.jar:na]
+	at com.amazonaws.http.AmazonHttpClient$RequestExecutor.executeOneRequest(AmazonHttpClient.java:1256) ~[aws-java-sdk-core-1.11.398.jar:na]
+	... 20 common frames omitted
+
+[2m-2022-02-25 09:09:37.136[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is beginning to process request: org.apache.catalina.connector.RequestFacade@773997bf
+-[2m-2022-02-25 09:09:37.136[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	serviceName: xray-tutorial-app
+	host: localhost:8080
+	path: /api/index
+	method: GET
+	serviceType: 
+-[2m-2022-02-25 09:09:37.137[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Centralized sampling data expired. Using fallback sampling strategy.
+-[2m-2022-02-25 09:09:37.137[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	host: localhost:8080
+	path: /api/index
+	method: GET
+-[2m-2022-02-25 09:09:37.137[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Applicable sampling rule: 
+	host: *
+	http_method: *
+	url_path: /api/*
+	fixed_target: 0
+	rate: 1.0
+-[2m-2022-02-25 09:09:37.137[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  Sampling strategy decided SAMPLED.
+-[2m-2022-02-25 09:09:37.139[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.c.ThreadLocalSegmentContext       [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621872a1-3fb26029d79a269e8e0bd8ba Beginning subsegment named: com.murtekbey.aws.xraytutorial.controller.TestController.index
+-[2m-2022-02-25 09:09:37.139[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.c.ThreadLocalSegmentContext       [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621872a1-3fb26029d79a269e8e0bd8ba Ending subsegment named: com.murtekbey.aws.xraytutorial.controller.TestController.index
+-[2m-2022-02-25 09:09:37.139[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.xray.entities.SubsegmentImpl        [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621872a1-3fb26029d79a269e8e0bd8ba Subsegment named 'com.murtekbey.aws.xraytutorial.controller.TestController.index' ending. Parent segment named 'xray-tutorial-app' has reference count 1
+-[2m-2022-02-25 09:09:37.141[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mcom.amazonaws.xray.AWSXRayRecorder      [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621872a1-3fb26029d79a269e8e0bd8ba Ending segment named 'xray-tutorial-app'.
+-[2m-2022-02-25 09:09:37.141[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  {
+  "name" : "xray-tutorial-app",
+  "id" : "3e0f59f4a175b439",
+  "start_time" : 1.645769377137E9,
+  "trace_id" : "1-621872a1-3fb26029d79a269e8e0bd8ba",
+  "end_time" : 1.645769377141E9,
+  "subsegments" : [ {
+    "name" : "com.murtekbey.aws.xraytutorial.controller.TestController.index",
+    "id" : "44ae1e23ef13ea84",
+    "start_time" : 1.645769377139E9,
+    "end_time" : 1.645769377139E9,
+    "metadata" : {
+      "ClassInfo" : {
+        "Class" : "com.murtekbey.aws.xraytutorial.controller.TestController",
+        "Package" : "com.murtekbey.aws.xraytutorial.controller",
+        "Method" : "index"
+      },
+      "Result" : {
+        "java.lang.String" : "HERE"
+      }
+    }
+  } ],
+  "http" : {
+    "request" : {
+      "method" : "GET",
+      "client_ip" : "0:0:0:0:0:0:0:1",
+      "url" : "http://localhost:8080/api/index",
+      "user_agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+    },
+    "response" : {
+      "content_length" : 4,
+      "status" : 200
+    }
+  },
+  "aws" : {
+    "xray" : {
+      "sdk_version" : "2.3.0",
+      "sdk" : "X-Ray for Java"
+    }
+  },
+  "service" : {
+    "runtime" : "Java HotSpot(TM) 64-Bit Server VM",
+    "runtime_version" : "11.0.12"
+  }
+}
+-[2m-2022-02-25 09:09:37.142[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  Sending UDP packet.
+-[2m-2022-02-25 09:09:37.142[0;39m [32mDEBUG [xray-tutorial-app,55a656cc9ca17846,55a656cc9ca17846][0;39m [35m10856[0;39m [2m---[0;39m [2m[nio-8080-exec-9][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is finished processing request: org.apache.catalina.connector.RequestFacade@773997bf
+-[2m-2022-02-25 09:12:33.890[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[pool-1-thread-1][0;39m [36mc.a.x.s.sampling.pollers.RulePoller     [0;39m [2m:[0;39m  Polling sampling rules.
+-[2m-2022-02-25 09:17:07.669[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[       Thread-8][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m  Closing JPA EntityManagerFactory for persistence unit 'default'
+-[2m-2022-02-25 09:17:07.670[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[       Thread-8][0;39m [36m.SchemaDropperImpl$DelayedDropActionImpl[0;39m [2m:[0;39m  HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+-[2m-2022-02-25 09:17:07.905[0;39m [33m WARN [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[       Thread-8][0;39m [36mo.s.b.f.support.DisposableBeanAdapter   [0;39m [2m:[0;39m  Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+-[2m-2022-02-25 09:17:07.907[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[       Thread-8][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m  HikariPool-1 - Shutdown initiated...
+-[2m-2022-02-25 09:17:07.910[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m10856[0;39m [2m---[0;39m [2m[       Thread-8][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m  HikariPool-1 - Shutdown completed.
+-[2m-2022-02-25 09:18:30.019[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mc.m.a.x.XrayTutorialApplication         [0;39m [2m:[0;39m  Starting XrayTutorialApplication using Java 11.0.12 on Murtek-PC with PID 22148 (C:\Users\murte\Desktop\CODE\2022\condor-workstation\tasks\xray-tutorial\target\classes started by murte in C:\Users\murte\Desktop\CODE\2022\condor-workstation\tasks\xray-tutorial)
+-[2m-2022-02-25 09:18:30.020[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mc.m.a.x.XrayTutorialApplication         [0;39m [2m:[0;39m  No active profile set, falling back to 1 default profile: "default"
+-[2m-2022-02-25 09:18:30.087[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+-[2m-2022-02-25 09:18:30.087[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+-[2m-2022-02-25 09:18:31.030[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+-[2m-2022-02-25 09:18:31.042[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m  Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+-[2m-2022-02-25 09:18:33.416[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.cloud.context.scope.GenericScope    [0;39m [2m:[0;39m  BeanFactory id=4c3ab1d0-cfc4-346d-951c-73ed7d323c9c
+-[2m-2022-02-25 09:18:34.102[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m  Tomcat initialized with port(s): 8080 (http)
+-[2m-2022-02-25 09:18:34.109[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.apache.catalina.core.StandardService  [0;39m [2m:[0;39m  Starting service [Tomcat]
+-[2m-2022-02-25 09:18:34.109[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.apache.catalina.core.StandardEngine [0;39m [2m:[0;39m  Starting Servlet engine: [Apache Tomcat/9.0.58]
+-[2m-2022-02-25 09:18:34.215[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m  Initializing Spring embedded WebApplicationContext
+-[2m-2022-02-25 09:18:34.215[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m  Root WebApplicationContext: initialization completed in 4127 ms
+-[2m-2022-02-25 09:18:35.105[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m  HikariPool-1 - Starting...
+-[2m-2022-02-25 09:18:35.196[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m  HikariPool-1 - Start completed.
+-[2m-2022-02-25 09:18:35.226[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.hibernate.jpa.internal.util.LogHelper [0;39m [2m:[0;39m  HHH000204: Processing PersistenceUnitInfo [name: default]
+-[2m-2022-02-25 09:18:35.257[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.hibernate.Version                   [0;39m [2m:[0;39m  HHH000412: Hibernate ORM core version 5.6.5.Final
+-[2m-2022-02-25 09:18:35.349[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.hibernate.annotations.common.Version  [0;39m [2m:[0;39m  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+-[2m-2022-02-25 09:18:35.429[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.hibernate.dialect.Dialect           [0;39m [2m:[0;39m  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+-[2m-2022-02-25 09:18:35.555[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator      [0;39m [2m:[0;39m  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+-[2m-2022-02-25 09:18:35.562[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m  Initialized JPA EntityManagerFactory for persistence unit 'default'
+-[2m-2022-02-25 09:18:35.713[0;39m [33m WARN [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mJpaBaseConfiguration$JpaWebConfiguration[0;39m [2m:[0;39m  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+-[2m-2022-02-25 09:18:36.376[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m  LiveReload server is running on port 35729
+-[2m-2022-02-25 09:18:36.822[0;39m [33m WARN [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36miguration$LoadBalancerCaffeineWarnLogger[0;39m [2m:[0;39m  Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+-[2m-2022-02-25 09:18:36.907[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.a.e.web.EndpointLinksResolver     [0;39m [2m:[0;39m  Exposing 1 endpoint(s) beneath base path ''
+-[2m-2022-02-25 09:18:36.982[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m  Tomcat started on port(s): 8080 (http) with context path ''
+-[2m-2022-02-25 09:18:37.305[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mc.m.a.x.XrayTutorialApplication         [0;39m [2m:[0;39m  Started XrayTutorialApplication in 8.027 seconds (JVM running for 10.707)
+-[2m-2022-02-25 09:18:37.656[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[5)-192.168.1.21][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m  Initializing Spring DispatcherServlet 'dispatcherServlet'
+-[2m-2022-02-25 09:18:37.657[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[5)-192.168.1.21][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m  Initializing Servlet 'dispatcherServlet'
+-[2m-2022-02-25 09:18:37.661[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[5)-192.168.1.21][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m  Completed initialization in 3 ms
+-[2m-2022-02-25 09:19:04.568[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is beginning to process request: org.apache.catalina.connector.RequestFacade@6288944c
+-[2m-2022-02-25 09:19:04.571[0;39m [32m INFO [xray-tutorial-app,,][0;39m [35m22148[0;39m [2m---[0;39m [2m[pool-1-thread-1][0;39m [36mc.a.x.s.sampling.pollers.RulePoller     [0;39m [2m:[0;39m  Polling sampling rules.
+-[2m-2022-02-25 09:19:04.571[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	serviceName: xray-tutorial-app
+	host: localhost:8080
+	path: /api/index
+	method: GET
+	serviceType: 
+-[2m-2022-02-25 09:19:04.571[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.sampling.pollers.TargetPoller   [0;39m [2m:[0;39m  Centralized sampling data expired. Using fallback sampling strategy.
+-[2m-2022-02-25 09:19:04.571[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Determining shouldTrace decision for:
+	host: localhost:8080
+	path: /api/index
+	method: GET
+-[2m-2022-02-25 09:19:04.573[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.s.s.LocalizedSamplingStrategy     [0;39m [2m:[0;39m  Applicable sampling rule: 
+	host: *
+	http_method: *
+	url_path: /api/*
+	fixed_target: 0
+	rate: 1.0
+-[2m-2022-02-25 09:19:04.573[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  Sampling strategy decided SAMPLED.
+-[2m-2022-02-25 09:19:04.672[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.c.ThreadLocalSegmentContext       [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621874d8-e80bcf0eb24b4836767d8af0 Beginning subsegment named: com.murtekbey.aws.xraytutorial.controller.TestController.index
+-[2m-2022-02-25 09:19:04.678[0;39m [32m INFO [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.m.a.x.controller.TestController       [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621874d8-e80bcf0eb24b4836767d8af0 Test log.
+-[2m-2022-02-25 09:19:04.679[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.c.ThreadLocalSegmentContext       [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621874d8-e80bcf0eb24b4836767d8af0 Ending subsegment named: com.murtekbey.aws.xraytutorial.controller.TestController.index
+-[2m-2022-02-25 09:19:04.679[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.xray.entities.SubsegmentImpl        [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621874d8-e80bcf0eb24b4836767d8af0 Subsegment named 'com.murtekbey.aws.xraytutorial.controller.TestController.index' ending. Parent segment named 'xray-tutorial-app' has reference count 1
+-[2m-2022-02-25 09:19:04.699[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mcom.amazonaws.xray.AWSXRayRecorder      [0;39m [2m:[0;39m AWS-XRAY-TRACE-ID: 1-621874d8-e80bcf0eb24b4836767d8af0 Ending segment named 'xray-tutorial-app'.
+-[2m-2022-02-25 09:19:04.717[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  {
+  "name" : "xray-tutorial-app",
+  "id" : "6b299788062715ea",
+  "start_time" : 1.645769944577E9,
+  "trace_id" : "1-621874d8-e80bcf0eb24b4836767d8af0",
+  "end_time" : 1.645769944699E9,
+  "subsegments" : [ {
+    "name" : "com.murtekbey.aws.xraytutorial.controller.TestController.index",
+    "id" : "5b41d571bacf082b",
+    "start_time" : 1.645769944672E9,
+    "end_time" : 1.645769944679E9,
+    "metadata" : {
+      "ClassInfo" : {
+        "Class" : "com.murtekbey.aws.xraytutorial.controller.TestController",
+        "Package" : "com.murtekbey.aws.xraytutorial.controller",
+        "Method" : "index"
+      },
+      "Result" : {
+        "java.lang.String" : "HERE"
+      }
+    }
+  } ],
+  "http" : {
+    "request" : {
+      "method" : "GET",
+      "client_ip" : "0:0:0:0:0:0:0:1",
+      "url" : "http://localhost:8080/api/index",
+      "user_agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+    },
+    "response" : {
+      "content_length" : 4,
+      "status" : 200
+    }
+  },
+  "aws" : {
+    "xray" : {
+      "sdk_version" : "2.3.0",
+      "sdk" : "X-Ray for Java"
+    }
+  },
+  "service" : {
+    "runtime" : "Java HotSpot(TM) 64-Bit Server VM",
+    "runtime_version" : "11.0.12"
+  }
+}
+-[2m-2022-02-25 09:19:04.719[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mcom.amazonaws.xray.emitters.UDPEmitter  [0;39m [2m:[0;39m  Sending UDP packet.
+-[2m-2022-02-25 09:19:04.720[0;39m [32mDEBUG [xray-tutorial-app,4d8c3249e11aeff0,4d8c3249e11aeff0][0;39m [35m22148[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.a.x.j.servlet.AWSXRayServletFilter    [0;39m [2m:[0;39m  AWSXRayServletFilter is finished processing request: org.apache.catalina.connector.RequestFacade@6288944c
+-

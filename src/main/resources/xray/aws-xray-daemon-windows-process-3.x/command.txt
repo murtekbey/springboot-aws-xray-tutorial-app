@@ -1,0 +1,1 @@
+.\xray_windows.exe -o -n eu-central-1
